@@ -1,6 +1,6 @@
 let version = "V1.0.1";
 let coins = 0;
-let upgrades = {"Tenant" : 10, "Apartment" : 100};
+let upgrades = {"Handmade" : 25, "Factory" : 100};
 let bought = {"Tenant" : 0, "Apartment" : 0};
 let increment = 1;
 let nextUpgrade = 100;
